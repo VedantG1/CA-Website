@@ -1,0 +1,26 @@
+#heading{
+    width: 100%;
+    font-size: 30px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: red;
+    margin: 0;
+}
+body{
+    background: linear-gradient(#009FFF, #ec2F4B);
+}
+#login, #reg{
+    width: 200px;
+    color: red;
+    font-size: 25px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+#user, #pass, #phone{
+    width: 500px;
+}
+#done{
+    color: white;
+}
+#img{
+    height: 50px;
+    width: 50px;
+}
